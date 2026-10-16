@@ -12,5 +12,17 @@ Analyze the text of a consumer agreement and identify potentially unfavorable te
 * Clearly distinguish confirmed terms form uncertainties
 
 In this first version im not going to focus on browser ext4ension,s or model fine tuning, or complex financial comparisions and automatic contract acceptance
-
+		
 The first thing  I  need is to define *Expected Behavior*
+
+Example: suppose a claude says something like: "A 24-month initial commitment followed by automatic 12-month renewals."
+-> this would matter alot ebcause the  consumer may remain commited if they miss the cancellation deadline.
+--> The result came from *supporting evidence* which could be the caluse requires written notice at least 60 days before renewal.
+-> Unaanswered question: Does the agreement impose fees for early termination?
+
+-> So to be clear we can see that we dont want just a "text summarization" but interpreting real consequences consumers may have but may not see
+because of how much paper work they are shown and no one can read that much!.
+
+**First Challenge** 
+Use a fictional contact stored as a str in puython and create a program athat identifies a few key words and returns a podential risk
+
