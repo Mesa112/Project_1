@@ -1,0 +1,16 @@
+**Whats the catch**
+-> To start this project I want to make it the most simple possible.
+I will start by creating a Consumer risk analyzer
+->Goal
+Analyze the text of a consumer agreement and identify potentially unfavorable terms before the user accepts them.
+--> Version 1 scope
+* Accept text from an agreement.
+* Identify potentially concerning clauses.
+* Explain why each claude could matter.
+* Point to the original wording as evidence.
+* Suggest questions the consumer should ask.
+* Clearly distinguish confirmed terms form uncertainties
+
+In this first version im not going to focus on browser ext4ension,s or model fine tuning, or complex financial comparisions and automatic contract acceptance
+
+The first thing  I  need is to define *Expected Behavior*
