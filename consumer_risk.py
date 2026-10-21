@@ -9,7 +9,8 @@ class Consumer_Risk:
         self.instruct_model = Instruct_Model()
 
     def run_program(self):
-        content = self.input_text('/Users/estebanm/Desktop/Career_Change/Consumer_Risk/contracts/contract_1.txt')
+        curr_contract_path = Path(__file__).resolve().parent / "contracts" /  "contract_1.txt"
+        content = self.input_text(curr_contract_path)
         self.instruct_model.load_instruct_model()
         results = self.Analyze_risk(content)
         print(results)
