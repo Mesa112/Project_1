@@ -1,0 +1,41 @@
+# Residential Solar Energy Agreement
+
+**Provider:** SunBright Energy Solutions  
+**Customer:** John Smith  
+**Agreement Date:** October 1, 2026
+
+## 1. Agreement Term
+
+The customer agrees to participate in the residential solar energy program for a period of 240 months beginning on the activation date of the solar energy system.
+
+## 2. Monthly Payments
+
+The customer shall pay SunBright Energy Solutions an initial monthly fee of $95.00. This amount shall increase by 2.9% annually throughout the agreement term.
+
+## 3. Equipment Ownership
+
+All solar panels, inverters, and related equipment installed on the customer's property shall remain the exclusive property of SunBright Energy Solutions. The customer shall not acquire ownership rights to the equipment through monthly payments.
+
+## 4. Electricity Usage
+
+The customer acknowledges that installation of the solar energy system does not eliminate the need for an existing utility account. Additional electricity charges may apply depending on household consumption, utility rates, and energy production.
+
+## 5. Early Termination
+
+If the customer terminates this agreement before the end of the contractual period, an early termination charge may apply. Such charges will be calculated according to the provider's termination schedule, available upon request.
+
+## 6. Property Transfer
+
+In the event the customer sells or transfers ownership of the property, the customer must either arrange for the new property owner to assume the remaining obligations under this agreement or satisfy any applicable termination requirements.
+
+## 7. Automatic Renewal
+
+Upon expiration of the initial agreement term, this agreement shall automatically renew for successive 12-month periods unless either party provides written notice of termination at least 90 days before expiration.
+
+## 8. Dispute Resolution
+
+Any dispute arising from this agreement shall be resolved through binding individual arbitration, except where prohibited by applicable law. The customer agrees to waive participation in class-action proceedings to the extent permitted by law.
+
+## 9. Information Sharing
+
+The customer authorizes SunBright Energy Solutions to share account information, energy consumption data, and contact details with affiliated service providers and third-party business partners for operational and marketing purposes.

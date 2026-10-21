@@ -25,4 +25,42 @@ because of how much paper work they are shown and no one can read that much!.
 
 **First Challenge** 
 Use a fictional contact stored as a str in puython and create a program athat identifies a few key words and returns a podential risk
+The first challenge was completed, in which we used a fake contract in a txt file to read a text, and determina if key words such as
+['early', 'cancellation, 'termiantion', 'fee'] were present, which would return as a flag for words in the text which 'couldl' indicate 
+possible risks for consumers
 
+-> *Next Questions to ask*
+--> Now that weve done this, ive deterined that not only finding words is important but context to them, but not just that, we need to determin
+if there is a 'risk' or answer what the obligation si, when does it apply, exceptions and how could all these affect the consumer.
+
+---> Precise definition of what we want the project to do after testing key_words
+-> Output risks
+-> Output Unanswered questions "ambiguity"
+-> Output upsides (benefits
+
+in a format of 
+
+{
+  "risks": [
+    {
+      "category": "Long-term commitment",
+      "evidence": "240 months",
+      "explanation": "You are agreeing to a 20-year contract.",
+      "potential_consequence": "Ending the agreement early may involve additional costs."
+    }
+  ],
+  "unanswered_questions": [
+    {
+      "evidence": "termination schedule, available upon request",
+      "question": "How much would early cancellation cost?",
+      "why_it_matters": "The contract does not provide enough information to calculate the penalty."
+    }
+  ],
+  "benefits": [
+    {
+      "category": "Compensation for delayed services",
+      "evidence": "In case of services not delivered by the guaranteed date, a $500 compensation will be awarded.",
+      "explanation": "If services are not delivered by the guaranteed date, you may be entitled to $500 in compensation."
+    }
+  ]
+}
